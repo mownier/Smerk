@@ -9,5 +9,5 @@ Pod::Spec.new do |s|
     s.source = { :git =>'https://github.com/mownier/Smerk.git', :branch => 'master' }
     s.source_files = 'Smerk/*.{h,m}'
     s.requires_arc = true
-    s.dependency = 'GPUImage'
+    s.dependency 'GPUImage'
 end
