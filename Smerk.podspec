@@ -7,7 +7,7 @@ Pod::Spec.new do |s|
     s.homepage = 'https://github.com/mownier/Smerk'
     s.author = { 'Matt Foley' => '' }
     s.source = { :git =>'https://github.com/mownier/Smerk.git', :branch => 'master' }
-    s.source_files = 'Smerk/*.{h,m},Smerk/Detection\ Handlers/*.{h,m}'
+    s.source_files = 'Smerk/*.{h,m}'
     s.requires_arc = true
     s.dependency 'GPUImage'
 end
