@@ -7,7 +7,7 @@
 //
 
 #import <UIKit/UIKit.h>
-#import "GPUImageStillCamera.h"
+#import <GPUImage/GPUImageStillCamera.h>
 
 /**
  *  Options to define what you'd like to detect with your camera.

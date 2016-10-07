@@ -6,7 +6,7 @@
 //  Copyright (c) 2014 Smerk. All rights reserved.
 //
 
-#import "GPUImage.h"
+#import <GPUImage/GPUImage.h>
 #import "SMKDetectionCamera.h"
 
 /**
